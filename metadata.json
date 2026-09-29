@@ -1,0 +1,6 @@
+{
+  "name": "أوريكس CMS - منصة إدارة المحتوى الذكية",
+  "description": "منصة إدارة محتوى شاملة وموديلار لتخصيص الصفحات الرئيسية والمؤسسات والشركات مع دعم الذكاء الاصطناعي وترتيب الموديولات بالسحب والإفلات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
